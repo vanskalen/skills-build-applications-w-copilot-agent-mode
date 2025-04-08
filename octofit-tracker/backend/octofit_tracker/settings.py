@@ -6,7 +6,7 @@ SECRET_KEY = 'your-secret-key'
 
 DEBUG = True
 
-ALLOWED_HOSTS = ['*']
+ALLOWED_HOSTS = ['cuddly-meme-q76j7w9g7pp24rv5-8000.app.github.dev', 'localhost']
 
 INSTALLED_APPS = [
     'django.contrib.admin',
